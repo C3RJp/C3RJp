@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**C3RJp/C3RJp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  🤖{ Welcomo to my Repo } 🤖
 
-Here are some ideas to get you started:
+## 🛸 My name is Juan P, I am a software development technician, it is a pleasure to share with you the projects I am developing.🛸 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Proyecto/ Proyect
+===
+It is the development of an application that is responsible for the document management of an American visa processing company.
+-
+![Project_PCS](https://www.publicdomainpictures.net/pictures/210000/velka/travel-background-1481907912dGp.jpg)
+## [Proffesional Consulting ](https://github.com/C3RJp/Proyecto.git)
+
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://www.youtube.com/watch?v=u3_2gAuPjxM">
+</iframe>
+</div>
+</p>
+</div>
