@@ -7,7 +7,7 @@
 ===
 It is the development of an application that is responsible for the document management of an American visa processing company.
 -
-![Project_PCS](https://www.publicdomainpictures.net/pictures/210000/velka/travel-background-1481907912dGp.jpg)
+![Project_PCS](https://alumni.cornell.edu/wp-content/uploads/2022/12/cool-photo.map_.jpg)
 ## [Proffesional Consulting ](https://github.com/C3RJp/Proyecto.git)
 
 `
