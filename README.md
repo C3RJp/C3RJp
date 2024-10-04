@@ -9,14 +9,3 @@ It is the development of an application that is responsible for the document man
 -
 ![Project_PCS](https://alumni.cornell.edu/wp-content/uploads/2022/12/cool-photo.map_.jpg)
 ## [Proffesional Consulting ](https://github.com/C3RJp/Proyecto.git)
-
-`
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="">
-</iframe>
-</div>
-</p>
-</div>
-`
